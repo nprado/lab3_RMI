@@ -1,0 +1,32 @@
+MC102
+Algoritmos e Programacao de Computadores
+Conceitos básicos de organização de computadores. Construção de algoritmos e sua representação em pseudocódigo e linguagens de alto nível. Desenvolvimento sistemático e implementação de programas. Estruturação, depuração, testes e documentação de programas. Resolução de problemas.#
+Seg  10:00/SI03 11:00/SI03
+Ter  10:00/CB08 11:00/CB08
+Qui  10:00/CB08 11:00/CB08
+Para proxima aula vamos aprender listas ligadas
+
+MC202
+Estrutura de Dados
+Estruturas básicas para representação de informações: listas, árvores, grafos, e suas generalizações. Algoritmos para construção, consulta, e manipulação de tais estruturas. Desenvolvimento, implementação e testes de programas usando tais estruturas em aplicações específicas
+Ter  10:00/CB07 11:00/CB07
+Qua  14:00/SI03 15:00/SI03
+Qui  10:00/CB07 11:00/CB07
+Para proxima aula vamos aprender HEAP
+
+MC302 
+Programação Orientada a Objetos
+Conceitos básicos e avançados de programação orientada a objetos. Aplicação dos conceitos usando uma linguagem orientada a objetos.
+Dia   Horário/Sala
+Ter  10:00/CB01 11:00/CB01 14:00/CC02 15:00/CC02
+Qui  10:00/CB01 11:00/CB01
+
+MC404
+Organização Básica de Computadores e Linguagem de Montagem
+Introdução à organização de computadores e representação de informação na memória. Estudo do conjunto de instruções de processadores RISCs e CISCs. Desenvolvimento, implementação e testes de programas usando linguagens e montagem
+Dia   Horário/Sala
+Seg  21:00/CC16 22:00/CC16
+Qua  19:00/CC02 20:00/CC02
+Para proxima aula vamos aprender interrupcoes
+
+
